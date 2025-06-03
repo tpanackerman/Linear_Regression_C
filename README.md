@@ -1,4 +1,3 @@
-# Linear_Regression_C
 Code structure:
      P_&_N -> Dataset   -> |
          |     |           |    ->   Core.h   ->   Execute
